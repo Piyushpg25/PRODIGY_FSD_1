@@ -20,15 +20,15 @@ This is Task 1 of my Full Stack Web Development Internship at **Prodigy InfoTech
 
 secure-auth/
 │
-├── index.php # Home page
-├── login.php # Login form
-├── register.php # Registration form
-├── dashboard.php # Protected dashboard
-├── logout.php # Logout handler
-├── db.php # Database connection
-├── style.css # Styling (includes dark mode)
-├── script.js # JS for dark mode toggle
-└── README.md # This file
+├── index.php # Home page<br>
+├── login.php # Login form<br>
+├── register.php # Registration form<br>
+├── dashboard.php # Protected dashboard<br>
+├── logout.php # Logout handler<br>
+├── db.php # Database connection<br>
+├── style.css # Styling (includes dark mode)<br>
+├── script.js # JS for dark mode toggle<br>
+└── README.md # This file<br>
 
 ------------------------------------------------------------------------------------
 
